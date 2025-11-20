@@ -1,0 +1,19 @@
+
+
+##
+## # Desktop Environment
+##
+
+
+
+
+##
+## ## Package / Desktop Environment / I3wm
+##
+
+i3
+
+
+tint2
+picom
+rofi

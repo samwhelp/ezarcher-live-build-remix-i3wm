@@ -8,6 +8,13 @@
 
 
 ##
+## * https://wiki.archlinux.org/title/I3
+##
+
+
+
+
+##
 ## ## Package / Desktop Environment / I3wm
 ##
 

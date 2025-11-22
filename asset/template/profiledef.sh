@@ -27,4 +27,12 @@ file_permissions=(
   ["/usr/local/bin/grubinstall.sh"]="0:0:755"
   ["/usr/local/bin/ezarch.bios"]="0:0:755"
   ["/usr/local/bin/ezarch.uefi"]="0:0:755"
+  ["/etc/skel/.config/i3/autostart"]="0:0:755"
+  ["/etc/skel/.config/i3/bin/i3wm-up"]="0:0:755"
+  ["/etc/skel/.config/i3/bin/i3wm-up-applet"]="0:0:755"
+  ["/etc/skel/.config/i3/bin/i3wm-up-compositor"]="0:0:755"
+  ["/etc/skel/.config/i3/bin/i3wm-up-keybind"]="0:0:755"
+  ["/etc/skel/.config/i3/bin/i3wm-up-panel"]="0:0:755"
+  ["/etc/skel/.config/i3/bin/i3wm-up-wallpaper"]="0:0:755"
+  ["/etc/skel/.config/i3/bin/i3wm-up-xsettings"]="0:0:755"
 )
